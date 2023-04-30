@@ -69,8 +69,8 @@ body {
 /* Body Animated Background */
 .lm-animated-bg {
   position: absolute;
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 250px;
+  max-height: 250px;
   width: auto;
   height: auto;
   top: -18px;
