@@ -428,7 +428,7 @@
             zoom: 16 // Google Map ZOOM. You can change this value
         });
         $("#map").addMarker({
-            address: "1407 W Gregory Dr, Urbana, Illinois, USA", // Your Address. Change it
+            address: "1407 West Gregory Drive, Urbana, Illinois, USA", // Your Address. Change it
         });
 
         scrollTop();
